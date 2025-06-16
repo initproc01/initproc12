@@ -2,79 +2,53 @@
   {
     "name": "KLWP 1",
     "pro": "false",
-    "author": "Ineffable H",
-    "url": "https://raw.githubusercontent.com/initproc01/initproc12/main/proc2/Deph_wall_2.klwp"
+    "author": "Ineffable",
+    "url": "https://raw.githubusercontent.com/initproc01/initproc12/main/proc2/Depth_wall_2.klwp"
   },
   {
     "name": "KLWP 2",
     "pro": "false",
-    "author": "Ineffable H",
+    "author": "Ineffable",
     "url": "https://raw.githubusercontent.com/initproc01/initproc12/main/proc2/Depth_wall_1.klwp"
   },
-  {
-    "name": "KLWP 3",
-    "pro": "false",
-    "author": "Ineffable H",
-    "url": "https://raw.githubusercontent.com/initproc01/initproc12/main/proc2/Depth_wall_10.klwp"
-  },
-  {
-    "name": "KLWP 4",
-    "pro": "false",
-    "author": "Ineffable H",
-    "url": "https://raw.githubusercontent.com/initproc01/initproc12/main/proc2/Depth_wall_11.klwp"
-  },
+  
   {
     "name": "KLWP 5",
     "pro": "false",
-    "author": "Ineffable H",
+    "author": "Ineffable",
     "url": "https://raw.githubusercontent.com/initproc01/initproc12/main/proc2/Depth_wall_3.klwp"
   },
   {
     "name": "KLWP 6",
     "pro": "false",
-    "author": "Ineffable H",
+    "author": "Ineffable",
     "url": "https://raw.githubusercontent.com/initproc01/initproc12/main/proc2/Depth_wall_4.klwp"
   },
   {
     "name": "KLWP 7",
     "pro": "false",
-    "author": "Ineffable H",
+    "author": "Ineffable",
     "url": "https://raw.githubusercontent.com/initproc01/initproc12/main/proc2/Depth_wall_5.klwp"
   },
   {
     "name": "KLWP 8",
     "pro": "false",
-    "author": "Ineffable H",
+    "author": "Ineffable",
     "url": "https://raw.githubusercontent.com/initproc01/initproc12/main/proc2/Depth_wall_6.klwp"
   },
   {
     "name": "KLWP 9",
     "pro": "false",
-    "author": "Ineffable H",
+    "author": "Ineffable",
     "url": "https://raw.githubusercontent.com/initproc01/initproc12/main/proc2/Depth_wall_7.klwp"
   },
   {
     "name": "KLWP 10",
     "pro": "false",
-    "author": "Ineffable H",
+    "author": "Ineffable",
     "url": "https://raw.githubusercontent.com/initproc01/initproc12/main/proc2/Depth_wall_8.klwp"
-  },
-  {
-    "name": "KLWP 11",
-    "pro": "false",
-    "author": "Ineffable H",
-    "url": "https://raw.githubusercontent.com/initproc01/initproc12/main/proc2/Depth_wall_9.klwp"
-  },
-  {
-    "name": "KLWP 12",
-    "pro": "false",
-    "author": "Ineffable H",
-    "url": "https://raw.githubusercontent.com/initproc01/initproc12/main/proc2/Depth_wall_pixel_city.klwp"
-  },
-  {
-    "name": "KLWP 13",
-    "pro": "false",
-    "author": "Ineffable H",
-    "url": "https://raw.githubusercontent.com/initproc01/initproc12/main/proc2/Desert_pixel_.klwp"
   }
+ 
+  
+  
 ]
